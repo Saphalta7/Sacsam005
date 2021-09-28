@@ -1,4 +1,5 @@
-preview
+[![Watch the video](https://raw.githubusercontent.com/redhat-developer/vscode-openshift-extension-pack/master/openshift-java/images/vscode-java-debug.gif)]
+
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">I'm a passionate self learner, developer and engineer. Also, I'm interested in data mining and analysis !!!</h3>
 
