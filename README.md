@@ -65,3 +65,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 <br />
 
 ##  Thanks for your Support 🙏
+
+<h1 align="center">Snake eating contribution graph 🐍 </h1>
+
+![snake gif](https://raw.githubusercontent.com/Sacsam005/Sacsam005/output/github-contribution-grid-snake.gif)
