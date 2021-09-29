@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate self learner, developer and engineer. Also, I'm interested in data mining and analysis !!!</h3>
 
 - 🔭 I’m currently learning everything 🤣
-- 🌱 
+- 🌱 Growing technically, growing mentally, growing old too, but yes growing in general...
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects/ learn and learn and then learn
 - ⚡ Fun fact: I love to cook/ when m not lazy enough 🤣
