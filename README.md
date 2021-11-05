@@ -8,8 +8,9 @@
 <h4 align="center">I'm a passionate self learner, developer and engineer. I'm interested in mining and analysis of data !!!</h3>
 <div class='flex-box'>
 <img src="https://media3.giphy.com/media/w9wfZxg6RSqhq/giphy.gif?cid=ecf05e47w7ay9viuwgl7jh0mt20l7i5bdtkktj8x6rbnnbx8&rid=giphy.gif&ct=g" width='250' style='display: flex; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:50%; margin:0;' align='right' >
-  
-<ul>
+
+  <div class='flex-box'>
+<ul style='display: flex; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:50%; margin:0; font-size:2vw;'>
 <li>- 🔭 I’m currently learning everything 🤣</li>
 <li>- 🌱 Growing technically, growing mentally, growing old too, but yes growing in general...</li>
 <li>- 👯 I’m looking to collaborate with other content creators</li>
@@ -17,6 +18,7 @@
 <li>- ⚡ Fun fact: I love to cook/ when m not lazy enough 🤣</li>
 <li>- 👨‍💻 My projects are available at [Sacsam005](https://github.com/Sacsam005) </li>
 </ul>
+    </div>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacsam005&label=Profile%20views&color=0e75b6&style=flat" alt="sacsam005" width='120'/> </p>
