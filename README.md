@@ -1,9 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 
 <h4 align="center">I'm a passionate self learner, developer and engineer. I'm interested in mining and analysis of data !!!</h3>
 <div class='flex-box'>
-<img src="https://media3.giphy.com/media/w9wfZxg6RSqhq/giphy.gif?cid=ecf05e47w7ay9viuwgl7jh0mt20l7i5bdtkktj8x6rbnnbx8&rid=giphy.gif&ct=g" width='250' style='display: flex; float: right; flex-wrap: wrap; justify-content: space-between;' align='right'>
+<img src="https://media3.giphy.com/media/w9wfZxg6RSqhq/giphy.gif?cid=ecf05e47w7ay9viuwgl7jh0mt20l7i5bdtkktj8x6rbnnbx8&rid=giphy.gif&ct=g" width='250' style='display: flex; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:50%; margin:0;' align='right' >
   
 <ul>
 <li>- 🔭 I’m currently learning everything 🤣</li>
@@ -46,10 +50,10 @@
 </p>
 </br>
 
-<div class='flex-box'>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsam005&show_icons=true&locale=en&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='400'style='display: flex; float: left; flex-wrap: wrap; justify-content: space-evenly;' align='right'>
+<div class='flex-box' style:'width=100%'>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsam005&show_icons=true&locale=en&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='325'style='display: flex; float: left; flex-wrap: wrap; justify-content: space-around; min-width:50%; margin:0;' align='right'>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='475' style='display: flex; flex-wrap: wrap; justify-content: space-evenly;'>
+<img src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='390' style='display: flex; flex-wrap: wrap; min-width:50%; margin:0;'>
 </div>
 </br>
 
@@ -62,3 +66,6 @@
 <h1 align="center">Snake eating contribution graph 🐍 </h1>
 
 <p align='center'><img src='https://raw.githubusercontent.com/Sacsam005/Sacsam005/output/github-contribution-grid-snake.gif'></p>
+
+</head>
+</html>
