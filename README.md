@@ -1,4 +1,5 @@
 <h1 align="center">Hi guys👋 I'm Sachin</h1>
+<p align='center'><img src ='https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png' width='150' height='150'></p>
 
 <h4 align="center">I'm a passionate self learner, developer and engineer. I'm interested in mining and analysis of data !!!</h3>
 <div class='flex-box'>
@@ -6,12 +7,12 @@
 
    <ul style='display: flex; float: right; flex-wrap: wrap; justify-content: space-evenly; width=100%, min-width:5%; margin:0; text-size-adjust: auto; @media (max-width: 540){ ul{ font-size: 2vw }     }'>
       <br>
-<li>🔭 I’m currently learning everything 🤣</li>
+<li>🔭 I’m currently learning everything 🧑🏻‍💻</li>
 <li>🌱 Growing mentally, technically, growing old too, but yes growing in general...</li>
 <li>👯 I’m looking to collaborate with other content creators</li>
 <li>🥅 Goals: Contribute more to Open Source projects/learn and learn and then learn</li>
 <li>⚡ Fun fact: I love to cook/ when m not lazy enough 🤣</li>
-<li>👨‍💻 My projects are available at [Sacsam005](https://github.com/Sacsam005) </li>
+<li>🧑🏻‍💻 My projects are available at [Sacsam005](https://github.com/Sacsam005) </li>
 </ul>   
 </div>
 
@@ -43,7 +44,7 @@
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" alt="R" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 </p>
-</div>
+<br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsam005&show_icons=true&locale=en&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='350' height='200'></p>
 <p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='450' height='300'></p>
@@ -54,5 +55,6 @@
 <h3 align="center">Snake eating contribution graph 🐍 </h3>
 <p align='center'><img src='https://raw.githubusercontent.com/Sacsam005/Sacsam005/output/github-contribution-grid-snake.gif'></p>
 
+---
 <h1 align="center">Thanks for your Support 🙏🏻</h1>
 
