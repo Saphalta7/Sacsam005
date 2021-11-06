@@ -7,18 +7,18 @@
 
 <h4 align="center">I'm a passionate self learner, developer and engineer. I'm interested in mining and analysis of data !!!</h3>
 <div class='flex-box'>
-<img src="https://media3.giphy.com/media/w9wfZxg6RSqhq/giphy.gif?cid=ecf05e47w7ay9viuwgl7jh0mt20l7i5bdtkktj8x6rbnnbx8&rid=giphy.gif&ct=g" width='250' style='display: flex; flex:33.33%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:25%; margin:0;' align='right' >
+<img src="https://media3.giphy.com/media/w9wfZxg6RSqhq/giphy.gif?cid=ecf05e47w7ay9viuwgl7jh0mt20l7i5bdtkktj8x6rbnnbx8&rid=giphy.gif&ct=g%20" width='250' style='display: flex; flex:50%%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
   <div class='flex-box'>
 
     
    <ul style='display: flex; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:5%; margin:0; text-size-adjust: auto; @media (max-width: 540){         ul{ font-size: 2vw }     }'>
-<li>- 🔭 I’m currently learning everything 🤣</li>
-<li>- 🌱 Growing technically, growing mentally, growing old too, but yes growing in general...</li>
-<li>- 👯 I’m looking to collaborate with other content creators</li>
-<li>- 🥅 Goals: Contribute more to Open Source projects/ learn and learn and then learn</li>
-<li>- ⚡ Fun fact: I love to cook/ when m not lazy enough 🤣</li>
-<li>- 👨‍💻 My projects are available at [Sacsam005](https://github.com/Sacsam005) </li>
+<li>🔭 I’m currently learning everything 🤣</li>
+<li>🌱 Growing mentally, technically, growing old too, but yes growing in general...</li>
+<li>👯 I’m looking to collaborate with other content creators</li>
+<li>🥅 Goals: Contribute more to Open Source projects/learn and learn and then learn</li>
+<li>⚡ Fun fact: I love to cook/ when m not lazy enough 🤣</li>
+<li>👨‍💻 My projects are available at [Sacsam005](https://github.com/Sacsam005) </li>
 </ul>
     </div>
 </div>
@@ -55,9 +55,9 @@
 </br>
 
 <div class='flex-box' style:'width=100%'>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsam005&show_icons=true&locale=en&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='350'style='display: flex; float: left; flex-wrap: wrap; justify-content: space-around; min-width:50%; margin:0;' align='right'>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsam005&show_icons=true&locale=en&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='350' height='200' style='display: flex; float: left; flex-wrap: wrap; justify-content: space-around; min-width:50%; margin:0;' align='right'>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='420' style='display: flex; flex-wrap: wrap; min-width:50%; margin:0;'>
+<img src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='420' height='200' style='display: flex; flex-wrap: wrap; min-width:50%; margin:0;'>
 </div>
 </br>
 
