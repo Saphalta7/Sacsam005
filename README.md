@@ -15,7 +15,7 @@
 </ul>   
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sacsam005&label=Profile%20views&color=0e75b6&style=flat" alt="sacsam005" width='120'/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sacsam005&label=Profile%20views&color=09518B&style=round" alt="sacsam005" width='120'/> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
