@@ -5,6 +5,7 @@
 <img src="https://media3.giphy.com/media/w9wfZxg6RSqhq/giphy.gif?cid=ecf05e47w7ay9viuwgl7jh0mt20l7i5bdtkktj8x6rbnnbx8&rid=giphy.gif&ct=g%20" width='250' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
    <ul style='display: flex; float: right; flex-wrap: wrap; justify-content: space-evenly; width=100%, min-width:5%; margin:0; text-size-adjust: auto; @media (max-width: 540){ ul{ font-size: 2vw }     }'>
+      <br>
 <li>🔭 I’m currently learning everything 🤣</li>
 <li>🌱 Growing mentally, technically, growing old too, but yes growing in general...</li>
 <li>👯 I’m looking to collaborate with other content creators</li>
@@ -15,9 +16,7 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacsam005&label=Profile%20views&color=0e75b6&style=flat" alt="sacsam005" width='120'/> </p>
-<br />
 
-<div class='flex-box' style='display: flex; flex:50%; float: left; flex-wrap: wrap; justify-content: space-evenly;' width='100%'>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/sachinsamal6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinsamal6" height="30" width="40" /></a>
@@ -27,8 +26,7 @@
 <a href="https://www.hackerrank.com/shachinmagar1201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shachinmagar1201" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16971472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16971472" height="30" width="40" /></a>
 </p>
-</br>
-
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -46,27 +44,15 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
 </p>
 </div>
-</br>
 
-<div class='flex-box' style:'width=100%'>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsam005&show_icons=true&locale=en&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='350' height='200' style='display: flex; float: left; flex-wrap: wrap; justify-content: space-around; min-width:50%; margin:0;' align='right'>
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='400' height='200' style='display: flex; flex-wrap: wrap; min-width:50%; margin:0;'>
-</div>
-</br>
-</br>
-</br>
-</br>
-</br>
- <h3 align="center">Keep Supporting   🤜🏻🤛🏻</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsam005&show_icons=true&locale=en&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='350' height='200'></p>
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='450' height='300'></p>
+ 
+<h3 align='center'>Keep Supporting 🤜🏻🤛🏻</h3>
 <p align='center'><img src='https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&column=8'></p>
-</br>
 
-<h1 align="center">Thanks for your Support 🙏🏻</h3>
-
-<h1 align="center">Snake eating contribution graph 🐍 </h1>
-
+<h3 align="center">Snake eating contribution graph 🐍 </h3>
 <p align='center'><img src='https://raw.githubusercontent.com/Sacsam005/Sacsam005/output/github-contribution-grid-snake.gif'></p>
 
-</head>
-</html>
+<h1 align="center">Thanks for your Support 🙏🏻</h1>
+
