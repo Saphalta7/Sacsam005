@@ -3,7 +3,7 @@
 
 <h4 align="center">I'm a passionate self learner, developer and engineer. I'm interested in mining and analysis of data !!!</h3>
 <div class='flex-box'>
-<img src="https://media3.giphy.com/media/w9wfZxg6RSqhq/giphy.gif?cid=ecf05e47w7ay9viuwgl7jh0mt20l7i5bdtkktj8x6rbnnbx8&rid=giphy.gif&ct=g%20" width='250' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
+<img src="https://media3.giphy.com/media/w9wfZxg6RSqhq/giphy.gif?cid=ecf05e47w7ay9viuwgl7jh0mt20l7i5bdtkktj8x6rbnnbx8&rid=giphy.gif&ct=g%20" width='350' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
    <ul style='display: flex; float: right; flex-wrap: wrap; justify-content: space-evenly; width=100%, min-width:5%; margin:0; text-size-adjust: auto; @media (max-width: 540){ ul{ font-size: 2vw }     }'>
       <br>
@@ -46,8 +46,9 @@
 </p>
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsam005&show_icons=true&locale=en&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='350' height='200'></p>
-<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="sacsam005" width='450' height='300'></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sacsam005&theme=blue-green"</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsam005&show_icons=true&locale=en&layout=compact&title_color=28ea80&theme=blue-green" alt="sacsam005" width='350' height='200'></p>
+<p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&theme=blue-green" alt="sacsam005" width='450' height='300'></p>
  
 <h3 align='center'>Keep Supporting 🤜🏻🤛🏻</h3>
 <p align='center'><img src='https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&column=8'></p>
