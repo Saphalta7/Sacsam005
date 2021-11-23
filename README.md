@@ -47,6 +47,7 @@
 <br>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sacsam005&theme=blue-green"</p>
+ <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sacsam005&show_icons=true&locale=en&layout=compact&title_color=28ea80&theme=blue-green" alt="sacsam005" width='350' height='200'></p>
 <p align="center"><img align='center' src="https://github-readme-stats.vercel.app/api?username=sacsam005&show_icons=true&locale=en&title_color=28ea80&theme=blue-green" alt="sacsam005" width='450' height='300'></p>
  
@@ -57,5 +58,5 @@
 <p align='center'><img src='https://raw.githubusercontent.com/Sacsam005/Sacsam005/output/github-contribution-grid-snake.gif'></p>
 
 ---
-<h1 align="center">Thanks for your Support 🙏🏻</h1>
+<h3 align="center">Thanks for your Support 🙏🏻</h3>
 
