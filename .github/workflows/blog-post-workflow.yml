@@ -11,7 +11,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
         uses: Sacsam005/blog-post-workflow@master
         with:
           feed_list: "https://shachinmagar120sm.wixsite.com/codingproficiency/blog-feed.xml"
