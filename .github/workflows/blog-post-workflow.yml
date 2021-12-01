@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: Sacsam005/blog-post-workflow@main
         with:
-          feed_list: "https://shachinmagar120sm.wixsite.com/codingproficiency"
+          feed_list: "https://shachinmagar120sm.wixsite.com/codingproficiency/blog"
