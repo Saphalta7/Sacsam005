@@ -20,7 +20,7 @@
 
 ### Latest Blog posts<img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" width="20">
 <!-- BLOG-POST-LIST:START -->
-- [Coding proficiency challenges as a beginner](https://shachinmagar120sm.wixsite.com/codingproficiency)
+- [App &amp; Down: 5 Apps to Help You Meditate](https://shachinmagar120sm.wixsite.com/codingproficiency/post/apps-down-5-apps-to-help-you-meditate)
 - [5 Steps to Detox Your Mind](https://shachinmagar120sm.wixsite.com/codingproficiency/post/5-steps-to-detox-your-mind)
 - [Eating Mindfully - Where Body &amp; Soul Connect](https://shachinmagar120sm.wixsite.com/codingproficiency/post/eating-mindfully-where-body-soul-connect)
 - [A 7-Minute Mindfulness Practice to Shift Out of “Doing” Mode](https://shachinmagar120sm.wixsite.com/codingproficiency/post/a-7-minute-mindfulness-practice-to-shift-out-of-doing-mode)
