@@ -5,7 +5,7 @@
 <div class='flex-box'>
 <img src="https://media3.giphy.com/media/w9wfZxg6RSqhq/giphy.gif?cid=ecf05e47w7ay9viuwgl7jh0mt20l7i5bdtkktj8x6rbnnbx8&rid=giphy.gif&ct=g%20" width='350' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
-   <ul style='display: flex; float: right; flex-wrap: wrap; justify-content: space-evenly; width=100%, min-width:5%; margin:0; text-size-adjust: auto; @media (max-width: 540){ ul{ font-size: 2vw }     }'>
+   <ul style="display: flex; float: right; list-style-type: square;">
       <br>
 <li>🔭 I’m currently learning everything 🧑🏻‍💻</li>
 <li>🌱 Growing mentally, technically, growing old too, but yes growing in general...</li>
@@ -18,9 +18,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sacsam005&label=Profile%20views&color=09518B&style=round" alt="sacsam005" width='120'/> </p>
 
-### Latest Blog posts
+### Latest Blog posts<img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" width="20">
 <!-- BLOG-POST-LIST:START -->
-- [App &amp; Down: 5 Apps to Help You Meditate](https://shachinmagar120sm.wixsite.com/codingproficiency/post/apps-down-5-apps-to-help-you-meditate)
+- [Coding proficiency challenges as a beginner](https://shachinmagar120sm.wixsite.com/codingproficiency)
 - [5 Steps to Detox Your Mind](https://shachinmagar120sm.wixsite.com/codingproficiency/post/5-steps-to-detox-your-mind)
 - [Eating Mindfully - Where Body &amp; Soul Connect](https://shachinmagar120sm.wixsite.com/codingproficiency/post/eating-mindfully-where-body-soul-connect)
 - [A 7-Minute Mindfulness Practice to Shift Out of “Doing” Mode](https://shachinmagar120sm.wixsite.com/codingproficiency/post/a-7-minute-mindfulness-practice-to-shift-out-of-doing-mode)
