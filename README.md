@@ -20,7 +20,7 @@
 
 ### Latest Blog posts <a href="https://shachinmagar120sm.wixsite.com/codingproficiency"><img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" width="20"></a>
 <!-- BLOG-POST-LIST:START -->
-- [How much JavaScript should I learn before jumping into ReactJS?](https://shachinmagar120sm.wixsite.com/codingproficiency/post/apps-down-5-apps-to-help-you-meditate)
+- [How much JavaScript should I learn before jumping into ReactJS?](https://shachinmagar120sm.wixsite.com/codingproficiency/post/javascript-to-reactjs)
 - [5 Steps to Detox Your Mind](https://shachinmagar120sm.wixsite.com/codingproficiency/post/5-steps-to-detox-your-mind)
 - [Eating Mindfully - Where Body &amp; Soul Connect](https://shachinmagar120sm.wixsite.com/codingproficiency/post/eating-mindfully-where-body-soul-connect)
 - [A 7-Minute Mindfulness Practice to Shift Out of “Doing” Mode](https://shachinmagar120sm.wixsite.com/codingproficiency/post/a-7-minute-mindfulness-practice-to-shift-out-of-doing-mode)
