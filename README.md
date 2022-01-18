@@ -16,6 +16,7 @@
 </ul>   
 </div>
 
+[![Visits Badge](https://badges.pufler.dev/visits/Sacsam005/Sacsam005)](https://sachinsamal005.netlify.app/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sacsam005&label=Profile%20views&color=09518B&style=round" alt="sacsam005" width='120'/> </p>
 
 ### Latest Blog posts <a href="https://shachinmagar120sm.wixsite.com/codingproficiency"><img src="https://cdn0.iconfinder.com/data/icons/social-networks-and-media-flat-icons/136/Social_Media_Socialmedia_network_share_socialnetwork_network-22-512.png" width="20"></a>
