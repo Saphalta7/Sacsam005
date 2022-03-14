@@ -11,7 +11,6 @@
 <li>🌱 Growing mentally, technically, growing old too, but yes growing in general...</li>
 <li>👯 I’m looking to collaborate with other content creators</li>
 <li>🥅 Goals: Contribute more to Open Source projects/learn and learn and then learn</li>
-<li>⚡ Fun fact: I love to cook/ when m not lazy enough 🤣</li>
 <li>🧑🏻‍💻 My projects are available at [Sacsam005](https://sachinsamal005.netlify.app/) </li>
 </ul>   
 </div>
